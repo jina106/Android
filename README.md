@@ -7,6 +7,6 @@
 
 <img height="680" width="320" src="./pic/메인화면(1).png"></img>
 <img height="680" width="320" src="./pic/네이버(1).png"></img>
-
+<img height="680" width="320" src="./pic/전화걸기(1).png"></img>
 
 
