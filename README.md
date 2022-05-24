@@ -31,4 +31,7 @@
 ☞ 11주차 과제\
 <img height="" width="" src="./pic/과제11.png"></img>
 
+☞ 12주차 과제\
+<img height="" width="" src="./pic/과제12.png"></img>
+
 
