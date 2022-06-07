@@ -37,4 +37,8 @@
 ☞ 13주차 과제\
 <img height="" width="" src="./pic/과제13.png"></img>
 
+☞ 14주차 과제\
+<img height="" width="" src="./pic/과제14.png"></img>
+
+
 
