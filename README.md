@@ -3,6 +3,7 @@
 
 ☞ 2주차 과제\
 <img height="550" width="390" src="./pic/과제2(1).png"></img>
+This is a blockqute.
 
 
 ☞ 3주차 과제\
