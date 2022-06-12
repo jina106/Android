@@ -42,6 +42,9 @@
 ☞ 14주차 과제\
 <img height="" width="" src="./pic/과제14(1).png"></img>
 
+☞ 기말고사 과제\
+<img height="" width="" src="./pic/기말고사.png"></img>
+
 
 
 
